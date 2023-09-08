@@ -9,7 +9,6 @@ const View = styled.div`
     border: 1px solid white;
     border-radius: 10px;
     display: flex;
-    /* flex-direction: column; */
     align-items: center;
     justify-content: end;
     padding: 20px;
